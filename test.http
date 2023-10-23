@@ -1,0 +1,5 @@
+### GET ALL CATEGORIES
+GET http://localhost:8000/api/mst-category
+Accept: application/json
+Content-Type: application/json
+talent-key: 5uydbVS97M-awPATBv0tR
